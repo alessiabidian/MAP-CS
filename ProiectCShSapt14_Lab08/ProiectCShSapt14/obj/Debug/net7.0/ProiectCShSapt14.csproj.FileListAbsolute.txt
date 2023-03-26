@@ -1,0 +1,45 @@
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.exe
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.deps.json
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.runtimeconfig.json
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.pdb
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.AssemblyInfoInputs.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.AssemblyInfo.cs
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\refint\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.pdb
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.genruntimeconfig.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14\ProiectCShSapt14\obj\Debug\net7.0\ref\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.exe
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.deps.json
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.runtimeconfig.json
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.pdb
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.AssemblyInfoInputs.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.AssemblyInfo.cs
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\refint\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.pdb
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.genruntimeconfig.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14 - Copy\ProiectCShSapt14\obj\Debug\net7.0\ref\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.exe
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.deps.json
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.runtimeconfig.json
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\bin\Debug\net7.0\ProiectCShSapt14.pdb
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.AssemblyInfoInputs.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.AssemblyInfo.cs
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\refint\ProiectCShSapt14.dll
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.pdb
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ProiectCShSapt14.genruntimeconfig.cache
+C:\Users\aless\OneDrive\Documente\2022 Year 2\2022 MAP - C#\ProiectCShSapt14_Lab08\ProiectCShSapt14\obj\Debug\net7.0\ref\ProiectCShSapt14.dll

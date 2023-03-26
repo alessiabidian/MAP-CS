@@ -1,0 +1,10 @@
+1;Houston Rockets
+2;Los Angeles Lakers
+3;LA Clippers
+4;Chicago Bulls
+5;Cleveland Cavaliers
+6;Atlanta Hawks
+7;New York Knicks
+8;Toronto Raptors
+9;Phoenix Suns
+10;Miami Heat

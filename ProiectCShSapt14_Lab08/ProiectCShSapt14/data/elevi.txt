@@ -1,0 +1,40 @@
+1;Anda Andrei;Scoala Gimnaziala Octavian Goga
+2;Iulia Negrila;Liceul de Informatica Tiberiu Popoviciu
+3;Maria Racovitan;Scoala Gimnaziala Horea
+4;Ligia Pop;Scoala Gimnaziala Ion Creanga
+5;Ana Andreescu;Scoala Gimnaziala Horea
+6;Dan Balan;Liceul de Informatica Tiberiu Popoviciu
+7;Mircea Luca;Scoala Gimnaziala Ion Agarbiceanu
+8;Bogdan Pop-Oarga;Scoala Gimnaziala Ion Creanga
+9;Paul Marta;Scoala Gimnaziala Octavian Goga
+10;Alina Popa;Scoala Gimnaziala Ion Agarbiceanu
+11;Liana Lili;Scoala Gimnaziala Octavian Goga
+12;Ioana Tolan;Liceul de Informatica Tiberiu Popoviciu
+13;Aa Bb;Scoala Gimnaziala Octavian Goga
+14;Horea Demian;Scoala Gimnaziala Octavian Goga
+15;Mihai Bucur;Scoala Gimnaziala Octavian Goga
+16;Tatiana Buss;Scoala Gimnaziala Octavian Goga
+17;George Secas;Scoala Gimnaziala Horea
+18;Dan Rac;Scoala Gimnaziala Horea
+19;Oana Persea;Scoala Gimnaziala Horea
+20;Culita Sterp;Scoala Gimnaziala Horea
+21;Tzanca Uraganu;Scoala Gimnaziala Ion Creanga
+22;Alex Botea;Scoala Gimnaziala Ion Creanga
+23;Ilinca Selesi;Scoala Gimnaziala Ion Creanga
+24;Vlad Pavaluca;Scoala Gimnaziala Ion Creanga
+25;Ionut Moldovan;Liceul de Informatica Tiberiu Popoviciu
+26;Elena Ee;Liceul de Informatica Tiberiu Popoviciu
+27;Victor Vv;Liceul de Informatica Tiberiu Popoviciu
+28;Alex Aaa;Scoala Gimnaziala Ion Agarbiceanu
+29;Marin Marin;Scoala Gimnaziala Ion Agarbiceanu
+30;Raluca Maria;Scoala Gimnaziala Ion Agarbiceanu
+31;Marius MarcBlu;Scoala Gimnaziala Ion Agarbiceanu
+32;Sss Dd;Scoala Gimnaziala Ion Creanga
+33;Cezarin Popp;Scoala Gimnaziala Ion Creanga
+34;Catalin Florea;Liceul de Informatica Tiberiu Popoviciu
+35;Lll Oop;Liceul de Informatica Tiberiu Popoviciu
+36;Briana Muresan;Liceul de Informatica Tiberiu Popoviciu
+37;Alexa Ratia;Scoala Gimnaziala Ion Agarbiceanu
+38;Alicia Keys;Scoala Gimnaziala Ion Agarbiceanu
+39;Dora Cicios;Scoala Gimnaziala Ion Agarbiceanu
+40;Luana Cicios;Scoala Gimnaziala Ion Agarbiceanu
